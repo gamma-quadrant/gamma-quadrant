@@ -1,9 +1,14 @@
 # About me
-I'm a technical writer working on a book about accessible technical writing. I'm also a ~~grasshopper~~ frontend web developer. Learning is my thing.
+I'm a technical writer working on a book about accessible technical writing for education. I'm also learning frontend web development.
 
 ## A little more about me
 
-I work in higher ed, but I'm looking to move into more technical technical writing. A lot of my work involves writing with Section 508 and WCAG guidelines in mind. I have some thoughts about how to make my work better.
+I work in higher ed, but I'm looking to move into more *technical* technical writing. A lot of my work involves writing alt text and editing documents so that they are Section 508 compliant. I have some thoughts about how to make my work better.
+
+## Currently reading
+
+*White Noise* by Don Delillo
+*The Computational Beauty of Nature* by Gary William Flake
 
 
 
