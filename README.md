@@ -14,7 +14,7 @@ Currently, I work in higher ed. A lot of my work involves writing alt text for i
 #### 
 
 [^1]: It would be better if the data used to create these figures were included instead.
-[^2]: I am not an expert in instruction or education. My perspective is that of a technical writer whose job it is to conform to a set of best practices for accessibility. On the ground level (as opposed to, say, at the level of an instructional designer or faculty member), you encounter challenges every day that standard guidelines don't address. It is up to you to figure out how to how to achieve the desired outcome (ideally, making the info accessible) in unique circumstances.
+[^2]: I am not an expert in instruction or education. My perspective is that of a technical writer whose job it is to conform to a set of best practices for accessibility. On the ground level (as opposed to, say, at the level of an instructional designer or faculty member), you encounter challenges every day that standard guidelines don't address. Through finding ways to achieve the desired outcome under unique circumstances, guidelines can be updated, refined, or expanded.
 
 <!---
 gamma-quadrant/gamma-quadrant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
